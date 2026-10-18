@@ -1,0 +1,142 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Insiders\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(551,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Practica 7.vcxproj, Practica 7 Reporte.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Camera.cpp
+  DirectionalLight.cpp
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\DirectionalLight.cpp(18,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\DirectionalLight.cpp(19,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\DirectionalLight.cpp(21,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\DirectionalLight.cpp(22,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+  Light.cpp
+  Material.cpp
+  Mesh_tn.cpp
+  Model.cpp
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Model.cpp(16,88): warning C4474: 'printf' : too many arguments passed for format string
+      C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Model.cpp(16,88):
+      placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Model.cpp(51,7): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Model.cpp(110,83): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Model.cpp(110,67): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Model.cpp(133,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  PointLight.cpp
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\PointLight.cpp(28,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\PointLight.cpp(29,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\PointLight.cpp(30,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\PointLight.cpp(32,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\PointLight.cpp(33,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\PointLight.cpp(34,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\PointLight.cpp(35,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+  Practica8.cpp
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Window.h(12,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'Practica8.cpp')
+  
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Window.h(13,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'Practica8.cpp')
+  
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Practica8.cpp(128,24): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Practica8.cpp(657,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Practica8.cpp(659,33): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+  Shader_light.cpp
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(101,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+      C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(101,38):
+      consider using '%zu' in the format string
+  
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(104,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+      C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(104,38):
+      consider using '%zu' in the format string
+  
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(107,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+      C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(107,38):
+      consider using '%zu' in the format string
+  
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(110,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+      C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(110,38):
+      consider using '%zu' in the format string
+  
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(113,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+      C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(113,38):
+      consider using '%zu' in the format string
+  
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(116,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+      C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(116,38):
+      consider using '%zu' in the format string
+  
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(119,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+      C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(119,38):
+      consider using '%zu' in the format string
+  
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(129,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+      C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(129,38):
+      consider using '%zu' in the format string
+  
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(132,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+      C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(132,38):
+      consider using '%zu' in the format string
+  
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(135,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+      C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(135,38):
+      consider using '%zu' in the format string
+  
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(138,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+      C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(138,38):
+      consider using '%zu' in the format string
+  
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(141,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+      C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(141,38):
+      consider using '%zu' in the format string
+  
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(144,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+      C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(144,38):
+      consider using '%zu' in the format string
+  
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(147,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+      C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(147,38):
+      consider using '%zu' in the format string
+  
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(150,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+      C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(150,38):
+      consider using '%zu' in the format string
+  
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(153,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+      C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(153,38):
+      consider using '%zu' in the format string
+  
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(207,75): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(207,26): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(206,91): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(206,42): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(220,98): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(220,62): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(220,24): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(219,70): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(219,24): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(218,88): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(218,42): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Shader_light.cpp(269,24): warning C4267: '=': conversion from 'size_t' to 'GLint', possible loss of data
+  Skybox.cpp
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Skybox.cpp(30,47): warning C4267: 'argument': conversion from 'size_t' to 'GLenum', possible loss of data
+  Sphere.cpp
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Sphere.cpp(39,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Sphere.cpp(43,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Sphere.cpp(91,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Sphere.cpp(94,51): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Sphere.cpp(98,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Sphere.cpp(108,42): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  SpotLight.cpp
+  Texture.cpp
+  Window.cpp
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Window.h(12,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'Window.cpp')
+  
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Window.h(13,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'Window.cpp')
+  
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Window.cpp(268,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Window.cpp(269,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Window.cpp(273,28): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Window.cpp(274,40): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Window.cpp(276,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Window.cpp(277,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+C:\Practicas Compu Grafica\P8\Practica 8\Practica 8\Window.cpp(93,1): warning C4715: 'Window::Initialise': not all control paths return a value
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Practica 8.vcxproj -> C:\Practicas Compu Grafica\P8\Practica 8\x64\Debug\Practica 8.exe

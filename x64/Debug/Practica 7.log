@@ -1,0 +1,26 @@
+﻿  Window.cpp
+C:\Practicas Compu Grafica\P7\Practica 7\Practica 7\Window.h(12,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'Window.cpp')
+  
+C:\Practicas Compu Grafica\P7\Practica 7\Practica 7\Window.h(13,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'Window.cpp')
+  
+C:\Practicas Compu Grafica\P7\Practica 7\Practica 7\Window.cpp(232,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P7\Practica 7\Practica 7\Window.cpp(233,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P7\Practica 7\Practica 7\Window.cpp(237,28): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P7\Practica 7\Practica 7\Window.cpp(238,40): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P7\Practica 7\Practica 7\Window.cpp(240,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P7\Practica 7\Practica 7\Window.cpp(241,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  practica7.cpp
+C:\Practicas Compu Grafica\P7\Practica 7\Practica 7\Window.h(12,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'practica7.cpp')
+  
+C:\Practicas Compu Grafica\P7\Practica 7\Practica 7\Window.h(13,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'practica7.cpp')
+  
+C:\Practicas Compu Grafica\P7\Practica 7\Practica 7\practica7.cpp(124,24): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Practicas Compu Grafica\P7\Practica 7\Practica 7\practica7.cpp(613,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P7\Practica 7\Practica 7\practica7.cpp(615,33): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+C:\Practicas Compu Grafica\P7\Practica 7\Practica 7\Window.cpp(87,1): warning C4715: 'Window::Initialise': not all control paths return a value
+  Practica 7.vcxproj -> C:\Practicas Compu Grafica\P7\Practica 7\x64\Debug\Practica 7.exe

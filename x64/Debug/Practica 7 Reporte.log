@@ -1,0 +1,28 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Insiders\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(551,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Practica 7.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Practica 7.cpp
+C:\Practicas Compu Grafica\P7\P7 Reporte\Practica 7 Reporte\Practica 7 Reporte\Window.h(12,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'Practica%207.cpp')
+  
+C:\Practicas Compu Grafica\P7\P7 Reporte\Practica 7 Reporte\Practica 7 Reporte\Window.h(13,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'Practica%207.cpp')
+  
+C:\Practicas Compu Grafica\P7\P7 Reporte\Practica 7 Reporte\Practica 7 Reporte\Practica 7.cpp(128,24): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Practicas Compu Grafica\P7\P7 Reporte\Practica 7 Reporte\Practica 7 Reporte\Practica 7.cpp(657,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P7\P7 Reporte\Practica 7 Reporte\Practica 7 Reporte\Practica 7.cpp(659,33): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+  Window.cpp
+C:\Practicas Compu Grafica\P7\P7 Reporte\Practica 7 Reporte\Practica 7 Reporte\Window.h(12,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'Window.cpp')
+  
+C:\Practicas Compu Grafica\P7\P7 Reporte\Practica 7 Reporte\Practica 7 Reporte\Window.h(13,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'Window.cpp')
+  
+C:\Practicas Compu Grafica\P7\P7 Reporte\Practica 7 Reporte\Practica 7 Reporte\Window.cpp(268,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P7\P7 Reporte\Practica 7 Reporte\Practica 7 Reporte\Window.cpp(269,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P7\P7 Reporte\Practica 7 Reporte\Practica 7 Reporte\Window.cpp(273,28): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P7\P7 Reporte\Practica 7 Reporte\Practica 7 Reporte\Window.cpp(274,40): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P7\P7 Reporte\Practica 7 Reporte\Practica 7 Reporte\Window.cpp(276,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P7\P7 Reporte\Practica 7 Reporte\Practica 7 Reporte\Window.cpp(277,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+C:\Practicas Compu Grafica\P7\P7 Reporte\Practica 7 Reporte\Practica 7 Reporte\Window.cpp(93,1): warning C4715: 'Window::Initialise': not all control paths return a value
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Practica 7 Reporte.vcxproj -> C:\Practicas Compu Grafica\P7\P7 Reporte\Practica 7 Reporte\x64\Debug\Practica 7 Reporte.exe

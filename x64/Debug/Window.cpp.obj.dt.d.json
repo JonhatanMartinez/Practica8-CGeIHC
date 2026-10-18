@@ -1,0 +1,28 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\practicas compu grafica\\p7\\p7 reporte\\practica 7 reporte\\practica 7 reporte\\window.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\practicas compu grafica\\p7\\p7 reporte\\practica 7 reporte\\practica 7 reporte\\window.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\stdio.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt.h",
+            "c:\\program files\\microsoft visual studio\\18\\insiders\\vc\\tools\\msvc\\14.51.36231\\include\\vcruntime.h",
+            "c:\\program files\\microsoft visual studio\\18\\insiders\\vc\\tools\\msvc\\14.51.36231\\include\\sal.h",
+            "c:\\program files\\microsoft visual studio\\18\\insiders\\vc\\tools\\msvc\\14.51.36231\\include\\concurrencysal.h",
+            "c:\\program files\\microsoft visual studio\\18\\insiders\\vc\\tools\\msvc\\14.51.36231\\include\\vadefs.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt_wstdio.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\corecrt_stdio_config.h",
+            "c:\\practicas compu grafica\\p7\\p7 reporte\\practica 7 reporte\\practica 7 reporte\\include\\glew.h",
+            "c:\\users\\jonha\\vcpkg\\installed\\x64-windows\\include\\gl\\glu.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\shared\\winapifamily.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\shared\\winpackagefamily.h",
+            "c:\\users\\jonha\\vcpkg\\installed\\x64-windows\\include\\gl\\gl.h",
+            "c:\\practicas compu grafica\\p7\\p7 reporte\\practica 7 reporte\\practica 7 reporte\\include\\glfw3.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\stddef.h",
+            "c:\\program files\\microsoft visual studio\\18\\insiders\\vc\\tools\\msvc\\14.51.36231\\include\\stdint.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
